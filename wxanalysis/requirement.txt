@@ -1,0 +1,6 @@
+itchat
+jieba
+pyecharts
+snownlp
+pillow
+TencentYoutuyun
